@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T09:32:53.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tGaRzZHa4CaRyv-d1a5h" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T09:34:19.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LQnvgtCdgfbU8eyC3UR9" version="24.2.5" type="github">
   <diagram name="Page-1" id="SvD7BVEH1bEgYZNXX_WI">
     <mxGraphModel dx="1036" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -109,6 +109,12 @@
         </mxCell>
         <mxCell id="W3EzcoGA5SosJBNZIoi4-15" value="粒度要更细，逐PPT的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3EzcoGA5SosJBNZIoi4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W3EzcoGA5SosJBNZIoi4-19" target="wE5h2Aiw5Ig8UwCzJGyg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3EzcoGA5SosJBNZIoi4-19" value="尽量做通用场景的" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
